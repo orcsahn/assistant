@@ -1,0 +1,12 @@
+# Python sanal ortamları
+venv/
+.venv/
+env/
+.env
+
+# MacOS işletim sistemi kalıntıları
+.DS_Store
+
+# IDE ayarları
+.idea/
+.vscode/
